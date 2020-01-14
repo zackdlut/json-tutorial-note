@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/root/workspace/json-tutorial-note"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"assert.h": "c"
+		}
+	}
+}
